@@ -6,7 +6,7 @@ while True:
         print('Ошибка ввода!')
 
 operand = int(input(f"Сколько операндов? "))
-print('operand')
+
 number = int(input(f"Введите число 1: "))
 
 result = number
